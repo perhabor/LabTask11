@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\bin\Debug\netcoreapp3.1\ColectionsTest.exe
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\bin\Debug\netcoreapp3.1\ColectionsTest.deps.json
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\bin\Debug\netcoreapp3.1\ColectionsTest.runtimeconfig.json
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\bin\Debug\netcoreapp3.1\ColectionsTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\bin\Debug\netcoreapp3.1\ColectionsTest.dll
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\bin\Debug\netcoreapp3.1\ColectionsTest.pdb
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\obj\Debug\netcoreapp3.1\ColectionsTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\obj\Debug\netcoreapp3.1\ColectionsTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\obj\Debug\netcoreapp3.1\ColectionsTest.AssemblyInfo.cs
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\obj\Debug\netcoreapp3.1\ColectionsTest.dll
+C:\CodebitsAcademy\C-Sharp\LabTask11\ColectionsTest\obj\Debug\netcoreapp3.1\ColectionsTest.pdb
